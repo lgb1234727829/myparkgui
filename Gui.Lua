@@ -1,4 +1,4 @@
-_G.AUTOSHOOT = "y" -- press y to shoot (not e or aimassist toggle key)
+_G.AUTOSHOOT = "r" -- press y to shoot (not e or aimassist toggle key)
 _G.SHOOTCOOLDOWN = 0.634 -- Best Value (between pressing E (Shot key) and releasing E)
 
 _G.Speed = 20
