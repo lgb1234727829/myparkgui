@@ -1,0 +1,4 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lgb1234727829/myparkgui/main/Gui.Lua"))()
+
+
